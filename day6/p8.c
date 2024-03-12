@@ -28,6 +28,6 @@ main()
     else
     {
         printf("Your Marks is %d\n", a);
-        printf("Your grade is F");
+        printf("Your grade is E");
     }
 }
